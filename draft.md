@@ -1,10 +1,10 @@
 ### Definitions
 
- **distributed ledger technology** or **DLT**: means a type of technology that support the distributed recording of encrypted data
+ **distributed ledger technology** or **DLT**: a type of technology that support the distributed recording of encrypted data
  
 **crypto-asset**: a digital representation of value or rights which may be transferred and stored electronically, using distributed ledger technology or similar technology
 
-**asset-referenced token** means a type of crypto-asset that purports to maintain a stable value by referring to the value of several fiat currencies that are legal tender, one or several commodities or one or several crypto-assets, or a combination of such assets
+**asset-referenced token**: a type of crypto-asset that purports to maintain a stable value by referring to the value of several fiat currencies that are legal tender, one or several commodities or one or several crypto-assets, or a combination of such assets
 
 **electronic money token** or **e-money token**: a type of crypto-asset the main purpose of which is to be used as a means of exchange and that purports to maintain a stable value by referring to the value of a fiat currency that is legal tender
 
